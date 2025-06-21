@@ -8,7 +8,7 @@ import os
 
 # List of names to process
 names = ["yunus", "selin", "deniz", "eraycan"]
-output_file = "raw_features.csv"
+output_file = "raw_data.csv"
 
 class AttentionAnalyzer:
     def __init__(self):
